@@ -1,0 +1,10 @@
+body {
+  background-color: grey;
+}
+
+#boxContainer .box {
+  width: 100px;
+  height: 100px;
+  background-color: coral;
+  margin-top: 10px;
+}
